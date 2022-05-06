@@ -1,0 +1,2 @@
+Student={"sno":1,"sname":"Sam","gender":"F","group":"BCA","result":97}
+print(Student)
