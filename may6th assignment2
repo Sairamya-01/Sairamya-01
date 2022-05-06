@@ -1,0 +1,2 @@
+Employee = {"EMPNo":1,"EMPName":"John","Empdesig":"HR","Empdob":1997,"Empsal":25000,"City":"kakinada"}    
+print(Employee)
